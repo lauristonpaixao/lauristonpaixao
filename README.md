@@ -29,5 +29,5 @@
 
 🤝 `Colaborações e contribuições`: Projetos colaborativos e open-source
 
-📱 `Aplicações de desenvolvimento próprio`: Aplicações voltadas para a área da saúde de desenvolvimento próprio
+📱 `Desenvolvimento de Aplicações`: Aplicações voltadas para a área da saúde de desenvolvimento próprio
                     
